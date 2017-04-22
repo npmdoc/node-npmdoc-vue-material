@@ -113,7 +113,8 @@
         "webpack-dev-middleware": "^1.10.0",
         "webpack-hot-middleware": "^2.16.1",
         "webpack-merge": "^2.6.1"
-    }
+    },
+    "bin": {}
 }
 ```
 
